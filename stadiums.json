@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"name": "Parc des Princes",
+		"location": "Paris"
+	},
+	{
+		"id": 2,
+		"name": "La Beaujoire",
+		"location": "Nantes"
+	},
+	{
+		"id": 3,
+		"name": "Parc Olympique lyonnais",
+		"location": "Lyon"
+	},
+	{
+		"id": 4,
+		"name": "Geoffroy-Guichard",
+		"location": "Saint-Étienne"
+	},
+	{
+		"id": 5,
+		"name": "Nouveau Stade",
+		"location": "Bordeaux"
+	},
+	{
+		"id": 6,
+		"name": "Vélodrome",
+		"location": "Marseille"
+	},
+	{
+		"id": 7,
+		"name": "Allianz Riviera",
+		"location": "Nice"
+	}
+]

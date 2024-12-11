@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"stadium_id": 1,
+		"team_home": "Espagne",
+		"team_away": "Ouzbékistan",
+		"start": "2024-07-24T15:00:00+02:00"
+	},
+	{
+		"id": 2,
+		"stadium_id": 4,
+		"team_home": "Argentine",
+		"team_away": "Maroc",
+		"start": "2024-07-24T15:00:00+02:00"
+	},
+	{
+		"id": 3,
+		"stadium_id": 7,
+		"team_home": "Guinée",
+		"team_away": "Nouvelle-Zélande",
+		"start": "2024-07-24T17:00:00+02:00"
+	},
+	{
+		"id": 4,
+		"stadium_id": 2,
+		"team_home": "Égypte",
+		"team_away": "Rép. Dominicaine",
+		"start": "2024-07-24T17:00:00+02:00"
+	},
+	{
+		"id": 5,
+		"stadium_id": 5,
+		"team_home": "Japon",
+		"team_away": "Paraguay",
+		"start": "2024-07-24T19:00:00+02:00"
+	},
+	{
+		"id": 6,
+		"stadium_id": 3,
+		"team_home": "Indonésie",
+		"team_away": "Ukraine",
+		"start": "2024-07-24T19:00:00+02:00"
+	},
+	{
+		"id": 7,
+		"stadium_id": 1,
+		"team_home": "Mali",
+		"team_away": "Israël",
+		"start": "2024-07-24T21:00:00+02:00"
+	},
+	{
+		"id": 8,
+		"stadium_id": 6,
+		"team_home": "France",
+		"team_away": "États-Unis",
+		"start": "2024-07-24T21:00:00+02:00"
+	}
+]

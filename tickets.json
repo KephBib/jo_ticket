@@ -1,0 +1,130 @@
+[
+	{
+		"id": "22757c35-5264-4863-b936-fda521438115",
+		"event_id": 1,
+		"category": "Silver",
+		"seat": "free",
+		"price": 65,
+		"currency": "USD"
+	},
+	{
+		"id": "7d73929a-f6a2-4996-96c1-eb9ae2df70d3",
+		"event_id": 1,
+		"category": "Platinum",
+		"seat": "P-51",
+		"price": 60,
+		"currency": "EUR"
+	},
+	{
+		"id": "26d0206f-ff64-4182-aee9-1028d189ebd8",
+		"event_id": 2,
+		"category": "Platinum",
+		"seat": "P-12",
+		"price": 80,
+		"currency": "EUR"
+	},
+	{
+		"id": "45d75237-f682-4189-95b8-4bd5b1634b77",
+		"event_id": 2,
+		"category": "Gold",
+		"seat": "G-23",
+		"price": 80,
+		"currency": "USD"
+	},
+	{
+		"id": "01bf3108-e004-4722-8a85-d384cb2262ea",
+		"event_id": 3,
+		"category": "Platinum",
+		"seat": "P-11",
+		"price": 60,
+		"currency": "EUR"
+	},
+	{
+		"id": "0783f40c-1f31-4f93-aa23-63576c0e8074",
+		"event_id": 3,
+		"category": "Platinum",
+		"seat": "P-8",
+		"price": 80,
+		"currency": "EUR"
+	},
+	{
+		"id": "f5970135-9157-49d9-81da-469cc52f41b2",
+		"event_id": 4,
+		"category": "Silver",
+		"seat": "free",
+		"price": 40,
+		"currency": "EUR"
+	},
+	{
+		"id": "1ec4e885-0268-464e-a610-6c1346245b92",
+		"event_id": 4,
+		"category": "Gold",
+		"seat": "G-39",
+		"price": 67,
+		"currency": "EUR"
+	},
+	{
+		"id": "680c831d-c79d-4070-aeb1-7ef42081c0eb",
+		"event_id": 5,
+		"category": "Platinum",
+		"seat": "P-15",
+		"price": 95,
+		"currency": "USD"
+	},
+	{
+		"id": "09f90c2f-82a9-42f9-a542-706409872a5d",
+		"event_id": 5,
+		"category": "Silver",
+		"seat": "free",
+		"price": 65,
+		"currency": "USD"
+	},
+	{
+		"id": "141dce64-445c-46ef-8e3a-b7b3acb449d4",
+		"event_id": 6,
+		"category": "Gold",
+		"seat": "G-4",
+		"price": 50,
+		"currency": "EUR"
+	},
+	{
+		"id": "09c525e1-e3eb-4d15-a6a8-60bee6343e0f",
+		"event_id": 6,
+		"category": "Gold",
+		"seat": "G-5",
+		"price": 50,
+		"currency": "EUR"
+	},
+	{
+		"id": "ff17465b-8ba6-4b02-ba3d-45f8aecbaa0c",
+		"event_id": 7,
+		"category": "Platinum",
+		"seat": "P-18",
+		"price": 95,
+		"currency": "USD"
+	},
+	{
+		"id": "3d3a09a5-ff58-48fb-8615-e8a5ef871ae0",
+		"event_id": 7,
+		"category": "Gold",
+		"seat": "G-53",
+		"price": 80,
+		"currency": "USD"
+	},
+	{
+		"id": "de725ef3-a2e6-430b-b5eb-adb4e203b142",
+		"event_id": 8,
+		"category": "Platinum",
+		"seat": "P-12",
+		"price": 80,
+		"currency": "EUR"
+	},
+	{
+		"id": "41a9c6bc-b4f6-49ed-ab34-5aecddbf3cc5",
+		"event_id": 8,
+		"category": "Platinum",
+		"seat": "P-51",
+		"price": 60,
+		"currency": "EUR"
+	}
+]
